@@ -8,4 +8,4 @@ Hi! This is a long and fancy description about the way this works!
 
 *Hi! (in italics)*
 
-[link to next page](/minima-test/main/testnext.md)
+[link to kopwiki](https://kopernicuswiki.github.io)
