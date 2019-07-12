@@ -8,4 +8,4 @@ Hi! This is a long and fancy description about the way this works!
 
 *Hi! (in italics)*
 
-[link to next page](../minima-test/_includes/testnext.md)
+[link to next page](testnext.md)
